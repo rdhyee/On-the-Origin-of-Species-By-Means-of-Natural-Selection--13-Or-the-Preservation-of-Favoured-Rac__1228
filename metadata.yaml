@@ -1,0 +1,33 @@
+_repo: On-the-Origin-of-Species-By-Means-of-Natural-Selection-Or-the-Preservation-of-Favoured-Races-i__1228
+_version: 0.0.1
+alternative_title: On the origin of species
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: See also PG#2009 for the 6th Edition
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Biology
+- Harvard Classics
+gutenberg_issued: '1998-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural selection'
+- !lcsh 'Evolution (Biology)'
+- !lcc 'QH'
+- GITenberg
+title: "On the Origin of Species By Means of Natural Selection\r\nOr, the Preservation\
+  \ of Favoured Races in the Struggle for Life"
+url: http://www.gutenberg.org/ebooks/1228
