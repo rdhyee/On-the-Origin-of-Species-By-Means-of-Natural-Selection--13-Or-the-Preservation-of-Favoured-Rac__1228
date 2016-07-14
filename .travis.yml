@@ -40,7 +40,7 @@ deploy:
     - book.mobi
     - book.pdf
   "on":
-    repo: rdhyee/On-the-Origin-of-Species-By-Means-of-Natural-Selection-Or-the-Preservation-of-Favoured-Races-i__1228
+    repo: rdhyee/On-the-Origin-of-Species-By-Means-of-Natural-Selection--13-Or-the-Preservation-of-Favoured-Rac__1228
 addons:
   apt:
     packages:
